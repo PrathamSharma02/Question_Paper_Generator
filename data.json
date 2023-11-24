@@ -1,0 +1,317 @@
+[
+  {
+    "subject": "Physics",
+    "topic": [
+      {
+        "topicname": "Force",
+        "level": [
+          {
+            "lname": "easy",
+            "ques": [
+              "Explain Newton's First Law of Motion.",
+              "Define kinetic energy.",
+              "What is the formula for acceleration?",
+              "Differentiate between mass and weight.",
+              "State the unit of force in the International System of Units (SI).",
+              "Describe the concept of inertia.",
+              "Provide an example of a contact force.",
+              "Explain the difference between static and kinetic friction.",
+              "Define gravitational force.",
+              "Discuss the importance of a free-body diagram in analyzing forces."
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": [
+              "Explain the concept of work in physics.",
+              "State and explain the law of conservation of energy.",
+              "Define impulse and its relationship with momentum.",
+              "Discuss the work-energy theorem.",
+              "Explain the principle of conservation of mechanical energy.",
+              "Define power in the context of physics.",
+              "Discuss the concept of potential energy.",
+              "Explain the relationship between force, work, and energy.",
+              "Define momentum and its importance in physics.",
+              "Discuss the role of friction in energy conservation."
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": [
+              "Explain the concept of torque and rotational equilibrium.",
+              "Define angular momentum and its conservation.",
+              "Discuss the concept of elasticity and plasticity in materials.",
+              "Explain the laws of motion in a rotational system.",
+              "Define moment of inertia and its significance.",
+              "Discuss the effects of external forces on rotational motion.",
+              "Explain the relationship between torque and angular acceleration.",
+              "Discuss the principles of circular motion.",
+              "Define Hooke's Law and its applications.",
+              "Explain the concept of stress and strain in materials."
+            ]
+          }
+        ]
+      },
+      {
+        "topicname": "Optics",
+        "level": [
+          {
+            "lname": "easy",
+            "ques": [
+              "Explain the laws of reflection of light.",
+              "Define refraction of light.",
+              "What is the difference between concave and convex lenses?",
+              "Describe the formation of images in a plane mirror.",
+              "Explain how mirrors produce magnified images.",
+              "Define the focal point of a lens.",
+              "Discuss the principles of image formation in lenses.",
+              "Explain the concept of dispersion in optics.",
+              "Discuss the applications of convex lenses.",
+              "Define the critical angle in optics."
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": [
+              "Explain how a rainbow is formed.",
+              "Define dispersion of light.",
+              "Discuss the working principle of a microscope.",
+              "Explain the phenomenon of total internal reflection.",
+              "Discuss the applications of fiber optics.",
+              "What is the working principle of a laser?",
+              "Describe the structure and function of the human eye.",
+              "Explain the concept of diffraction in optics.",
+              "Discuss the uses of concave mirrors.",
+              "Explain the principles of holography."
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": [
+              "Explain the concept of total internal reflection.",
+              "Discuss the applications of fiber optics.",
+              "What is the working principle of a laser?",
+              "Explain the phenomenon of diffraction grating.",
+              "Discuss the principles of interference in optics.",
+              "Describe the uses of concave and convex lenses in optical devices.",
+              "Explain the principles of laser surgery.",
+              "Discuss the concept of optical coherence tomography.",
+              "Explain the working of a spectrophotometer.",
+              "Discuss the principles of adaptive optics."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Mathematics",
+    "topic": [
+      {
+        "topicname": "Calculus",
+        "level": [
+          {
+            "lname": "easy",
+            "ques": [
+              "Find the derivative of f(x) = 3x^2 + 2x - 1.",
+              "Evaluate the integral ∫(2x + 3) dx.",
+              "What is the limit lim(x -> 1) (x^2 - 1) / (x - 1)?",
+              "Solve the limit lim(x -> 0) (sinx / x).",
+              "Discuss the concept of continuity in calculus.",
+              "Define the derivative of a function.",
+              "Explain the principles of the chain rule.",
+              "Discuss the concept of integration in calculus.",
+              "Explain the properties of definite integrals.",
+              "Discuss the applications of calculus in real life."
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": [
+              "Explain the fundamental theorem of calculus.",
+              "Solve the differential equation dy/dx = 2x, y(0) = 1.",
+              "Find the local maximum and minimum of the function f(x) = x^3 - 3x^2 + 2x.",
+              "Prove the mean value theorem for definite integrals.",
+              "Discuss the concept of improper integrals.",
+              "Solve the differential equation dy/dx = y - x, y(0) = 2.",
+              "Discuss the applications of derivatives in economics.",
+              "Prove L'Hôpital's Rule for indeterminate forms.",
+              "Explain the concept of Taylor series.",
+              "Solve the differential equation d^2y/dx^2 + 4y = 0."
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": [
+              "Prove Rolle's theorem.",
+              "Evaluate the improper integral ∫(0 to ∞) e^(-x) dx.",
+              "Solve the differential equation d^2y/dx^2 + 4y = 0.",
+              "Explain the concept of sequences and series.",
+              "Prove the convergence and divergence of series.",
+              "Discuss the applications of partial derivatives.",
+              "Explain the concept of multiple integrals.",
+              "Discuss the principles of vector calculus.",
+              "Explain the concept of differential geometry.",
+              "Discuss the applications of calculus in physics."
+            ]
+          }
+        ]
+      },
+      {
+        "topicname": "Trigonometry",
+        "level": [
+          {
+            "lname": "easy",
+            "ques": [
+              "Find the sine and cosine of the angle 30 degrees.",
+              "Solve the equation sin(x) = 0.5.",
+              "What is the tangent of the angle 45 degrees?",
+              "Prove the Pythagorean identity for sine and cosine.",
+              "Discuss the concept of radians in trigonometry.",
+              "Explain the unit circle in trigonometry.",
+              "Define the reciprocal trigonometric functions.",
+              "Discuss the properties of trigonometric functions.",
+              "Define the inverse trigonometric functions.",
+              "Explain the concept of trigonometric ratios."
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": [
+              "Prove the double-angle identity for sine.",
+              "Find the general solution to the equation cos(x) = -0.5.",
+              "Simplify the expression tan(x) / (1 + cot(x)).",
+              "Prove the sum-to-product identities.",
+              "Find the derivative of the tangent function: d/dx tan(x).",
+              "Solve the trigonometric equation sin^2(x) + 2sin(x) + 1 = 0.",
+              "Discuss the properties of inverse trigonometric functions.",
+              "Explain the concept of trigonometric equations.",
+              "Solve the equation cos^2(x) - sin^2(x) = 1.",
+              "Discuss the applications of trigonometry in navigation."
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": [
+              "Prove the sum-to-product identities.",
+              "Find the derivative of the tangent function: d/dx tan(x).",
+              "Solve the trigonometric equation sin^2(x) + 2sin(x) + 1 = 0.",
+              "Discuss the properties of hyperbolic functions.",
+              "Define the hyperbolic trigonometric functions.",
+              "Prove the derivatives of hyperbolic functions.",
+              "Discuss the applications of hyperbolic functions.",
+              "Explain the concept of complex numbers in trigonometry.",
+              "Prove De Moivre's Theorem.",
+              "Discuss the applications of trigonometry in science and engineering."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Chemistry",
+    "topic": [
+      {
+        "topicname": "Organic",
+        "level": [
+          {
+            "lname": "easy",
+            "ques": [
+              "Define isomerism in organic chemistry.",
+              "Give an example of a homologous series in organic compounds.",
+              "What is the IUPAC name for CH3CH2OH?",
+              "Discuss the concept of structural isomerism.",
+              "Explain the differences between structural isomers and stereoisomers.",
+              "Define the terms cis and trans in organic compounds.",
+              "Discuss the concept of functional groups in organic chemistry.",
+              "Provide examples of functional groups in organic compounds.",
+              "Explain the concept of chirality in organic molecules.",
+              "Discuss the importance of stereochemistry in drug design."
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": [
+              "Explain the mechanism of nucleophilic substitution reactions.",
+              "Draw the structural formula for butanal.",
+              "What are enantiomers in the context of organic chemistry?",
+              "Discuss the differences between nucleophiles and electrophiles.",
+              "Explain the concept of resonance in organic chemistry.",
+              "Draw resonance structures for organic compounds.",
+              "Discuss the principles of retrosynthetic analysis.",
+              "Explain the role of protecting groups in organic synthesis.",
+              "Discuss the concept of asymmetric synthesis.",
+              "Provide examples of asymmetric synthesis in drug development."
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": [
+              "Discuss the concept of retrosynthesis in organic chemistry.",
+              "Explain the use of NMR spectroscopy in organic compound analysis.",
+              "Describe the Diels-Alder reaction and its applications.",
+              "Discuss the principles of pericyclic reactions.",
+              "Explain the concept of synthetic polymers.",
+              "Discuss the principles of green chemistry in organic synthesis.",
+              "Explain the role of organometallic compounds in organic synthesis.",
+              "Discuss the applications of organocatalysis in organic chemistry.",
+              "Explain the principles of supramolecular chemistry.",
+              "Discuss the challenges and opportunities in the field of organic chemistry."
+            ]
+          }
+        ]
+      },
+      {
+        "topicname": "Physical",
+        "level": [
+          {
+            "lname": "easy",
+            "ques": [
+              "Define the term 'stoichiometry' in the context of chemical reactions.",
+              "What is the difference between exothermic and endothermic reactions?",
+              "Give an example of a redox reaction.",
+              "Explain the concept of molarity in solution chemistry.",
+              "Define the terms 'oxidation' and 'reduction' in chemical reactions.",
+              "Discuss the principles of gas laws.",
+              "Explain the concept of chemical equilibrium.",
+              "What is the role of catalysts in chemical reactions?",
+              "Discuss the properties of acids and bases.",
+              "Define the term 'buffer solution' and its significance."
+            ]
+          },
+          {
+            "lname": "medium",
+            "ques": [
+              "Explain the principles of thermodynamics.",
+              "Balance the chemical equation for the combustion of ethane (C2H6) with oxygen.",
+              "Define the terms 'entropy' and 'enthalpy'.",
+              "Discuss the concept of Gibbs free energy.",
+              "Explain the laws of electrochemistry.",
+              "Discuss the principles of chemical kinetics.",
+              "Explain the concept of phase diagrams in physical chemistry.",
+              "Define the terms 'colligative properties' in solution chemistry.",
+              "Discuss the principles of nuclear chemistry.",
+              "Explain the use of spectroscopy in chemical analysis."
+            ]
+          },
+          {
+            "lname": "hard",
+            "ques": [
+              "Discuss the concept of entropy and its role in thermodynamics.",
+              "Explain the mechanism of catalysis in chemical reactions.",
+              "Describe the principles of chromatography as a separation technique.",
+              "Discuss the applications of photochemistry in chemical reactions.",
+              "Explain the principles of quantum chemistry.",
+              "Discuss the role of symmetry in molecular chemistry.",
+              "Explain the concept of solid-state chemistry.",
+              "Discuss the principles of surface chemistry.",
+              "Describe the applications of nanoparticles in chemistry.",
+              "Explain the principles of computational chemistry."
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
